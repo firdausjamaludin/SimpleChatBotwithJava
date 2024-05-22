@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Comments/Hello, Java platform/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Comments/Hello, Java platform/test" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-17" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Simple_Chat_Bot_with_Java.Topics-Comments-Hello,_Java_platform.main" />
     <orderEntry type="module" module-name="Simple_Chat_Bot_with_Java.util.main" />
